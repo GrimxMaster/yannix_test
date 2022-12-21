@@ -1,0 +1,32 @@
+{"room" :[
+        {
+            "id" : 1 ,
+            "name" : "test",
+            "chat" : [
+                {
+                    "chat_id": 1,
+                    "name": "Molecule Man"
+                },
+                {
+                    "chat_id": 2,
+                    "name": "data tree"
+                }
+            ]   
+        },
+
+        {
+                "id" : 2 ,
+                "name" : "party room",
+                "chat" : [
+                    {
+                        "chat_id": 3,
+                        "name": "christmas"
+                    },
+                    {
+                        "chat_id": 4,
+                        "name": "new year"
+                    }
+                ]
+        }
+    ]
+}
